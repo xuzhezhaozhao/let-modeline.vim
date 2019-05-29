@@ -2,3 +2,6 @@
 To use vundle, fork from: https://github.com/LucHermitte/lh-misc/blob/master/plugin/let-modeline.vim
 
 or https://www.vim.org/scripts/script.php?script_id=83
+
+
+Use VIM: instead of vim:
